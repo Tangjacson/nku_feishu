@@ -1,6 +1,6 @@
 # nku_feishu
 
-If some friends want to use these code, it fine. due to my ability I dont know how to develop it to a finished app. sorry about that. And if you not familiar with python or selenium, the following may help you use these code. 
+If some friends want to use these code, it fine. due to my ability I dont know how to develop it to a finished app, sorry about that. And if you are not familiar with python or selenium, the following may help you use these code. 
 
 First, you need to download browser **chrome**, and add it to you environment path, and you need a python with the selenium
 Next, download **chromedriver**, I recommend u put it together with with your code in the same directory or you may need to add a parameter **executable_path="you chromedriver's path"** to the **webdriver.Chrome()**

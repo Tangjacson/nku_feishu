@@ -9,4 +9,4 @@ Any questions, you can leave them in the issues.
 
 ## nku_feishu web
 
-About the web, use the **.py** file. And you need **chrome** and **chromedriver** on your **linux** server. Then I use the **crontab** you make it work daily.
+About the web, use the  file. And you need **chrome** and **chromedriver** on your **linux** server. Then I use the **[crontab](https://www.cnblogs.com/qq874455953/p/9589207.html)** to make it work daily.

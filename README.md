@@ -6,3 +6,7 @@ First, you need to download browser **chrome**, and add it to you environment pa
 Next, download **chromedriver**, I recommend u put it together with with your code in the same directory or you may need to add a parameter **executable_path="you chromedriver's path"** to the **webdriver.Chrome()**
 Roughly that, and dont forget to replace the studentid and password of your 南开信息门口.
 Any questions, you can leave them in the issues.
+
+## nku_feishu web
+
+About the web, use the **.py** file. And you need **chrome** and **chromedriver** on your **linux** server. Then I use the **crontab** you make it work daily.
